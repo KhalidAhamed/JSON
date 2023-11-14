@@ -1,0 +1,1 @@
+class ParseModel : ArrayList<ParseModelItem>()
